@@ -1,0 +1,13 @@
+body {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    background-color: lightgray;
+}
